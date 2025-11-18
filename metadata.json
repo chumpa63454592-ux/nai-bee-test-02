@@ -1,0 +1,5 @@
+{
+  "name": "November Lunch Menu Planner",
+  "description": "An application that generates a daily lunch menu for the month of November, complete with AI-generated images for each dish, presented in a calendar format.",
+  "requestFramePermissions": []
+}
